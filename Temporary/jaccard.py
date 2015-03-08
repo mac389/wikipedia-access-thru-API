@@ -20,5 +20,4 @@ def jaccard(file1, file2):
 jaccard('sanitizted', 'sanitized2')
 jaccard('sanitizted', 'sanitized3')
 jaccard('sanitized2', 'sanitized3')
->>>>>>> upstream/master
 
